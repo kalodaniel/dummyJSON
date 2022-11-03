@@ -2,129 +2,93 @@
   "dolgozok": [
     {
       "id": 1,
-      "keresztNev": "Példa",
-      "vezetekNev": "Béla",
-      "fizetes": 200000
+      "name": "Példa Béla",
+      "salary": 200000,
+      "age": 25
     },
     {
       "id": 2,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
+      "name": "Nagy Tibor",
+      "salary": 185300,
+      "age": 30
     },
     {
       "id": 3,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
+      "name": "Kiss Jószef",
+      "salary": 250000,
+      "age": 32
     },
     {
       "id": 4,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
+       "name": "Huszár Béla",
+       "salary": 275000,
+       "age": 24
     },
     {
       "id": 5,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
+       "name": "Kontár Levente",
+       "salary": 160000,
+       "age": 20
     },
     {
       "id": 6,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
+       "name": "Aranyosi Géza",
+       "salary": 178000,
+       "age": 55
     },
     {
       "id": 7,
-      "keresztNev": "Béla",
-      "vezetekNev": "Kovács",
-      "fizetes": 182500
+      "name": "Kókadt Sándor",
+      "salary": 192000,
+      "age": 45
     },
     {
       "id": 8,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
+      "name": "Nagy Sándor",
+      "salary": 300000,
+      "age": 48
     },
     {
       "id": 9,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
+      "name": "Nagy Tibor",
+      "salary": 185300,
+      "age": 30
     },
     {
       "id": 10,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
+      "name": "Kaló Dániel",
+      "salary": 1000000,
+      "age": 24
     },
     {
       "id": 11,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
+      "name": "Fehér Klaudia",
+      "salary": 150000,
+      "age": 29
     },
     {
       "id": 12,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
+      "name": "Orosz Áron",
+      "salary": 192500,
+      "age": 36
     },
     {
       "id": 13,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
+      "name": "Balla Patrícia",
+      "salary": 345000,
+      "age": 32
     },
     {
       "id": 14,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
+      "name": "Katona Rudolf",
+      "salary": 356000,
+      "age": 22
     },
     {
       "id": 15,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
-    },
-    {
-      "id": 16,
-      "keresztNev": "Béla",
-      "vezetekNev": "Kovács",
-      "fizetes": 182500
-    },
-    {
-      "id": 17,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
-    },
-    {
-      "id": 18,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
-    },
-    {
-      "id": 19,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
-    },
-    {
-      "id": 20,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
-    },
-    {
-      "id": 21,
-      "keresztNev": "Tibor",
-      "vezetekNev": "Nagy",
-      "fizetes": 182500
+      "name": "Farkas Adél",
+      "salary": 159700,
+      "age": 36
     }
   ],
   "profile": {
