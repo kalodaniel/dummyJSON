@@ -1,0 +1,133 @@
+{
+  "dolgozok": [
+    {
+      "id": 1,
+      "keresztNev": "Példa",
+      "vezetekNev": "Béla",
+      "fizetes": 200000
+    },
+    {
+      "id": 2,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 3,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 4,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 5,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 6,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 7,
+      "keresztNev": "Béla",
+      "vezetekNev": "Kovács",
+      "fizetes": 182500
+    },
+    {
+      "id": 8,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 9,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 10,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 11,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 12,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 13,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 14,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 15,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 16,
+      "keresztNev": "Béla",
+      "vezetekNev": "Kovács",
+      "fizetes": 182500
+    },
+    {
+      "id": 17,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 18,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 19,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 20,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    },
+    {
+      "id": 21,
+      "keresztNev": "Tibor",
+      "vezetekNev": "Nagy",
+      "fizetes": 182500
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
